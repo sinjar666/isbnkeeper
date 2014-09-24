@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>isbnkeeper64.png</file>
+        <file>Homescreen/qml/Search-icon.png</file>
+        <file>barcode_isbn.png</file>
+        <file>please-wait.png</file>
+        <file>appicon.png</file>
+        <file>leather-book-preview.png</file>
+        <file>about.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Search-icon.png</file>
+        <file>qml/searchbox.qml</file>
+    </qresource>
+</RCC>
